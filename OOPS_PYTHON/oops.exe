@@ -1,0 +1,11 @@
+OOP'S-- to add the real world entity to ur programming is called oops
+two type 1)class-> blue-print of an object that holds,properties (outer layout),& behaviour/action(method innerbehavour)
+         2)object-> instance of class (physical existance)
+Class Properties of an object -> 1) variable --->
+                               1)instance variable
+                               2)static variable/class variable
+                               3)local variable
+                            2) behaviour(method)\action of an object --->
+                               1)instance method
+                               2)class method
+                               3)static method
