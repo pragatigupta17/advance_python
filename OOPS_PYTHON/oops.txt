@@ -9,3 +9,20 @@ Class Properties of an object -> 1) variable --->
                                1)instance method
                                2)class method
                                3)static method
+SYNTAX ---> class class_name:
+                  "doc_string"
+                  constructor
+                  variables
+                  method
+            obj = class
+#DECLARATION OF INSTANCE VARIABLES:
+1)inside class
+           1)In constructor
+           2)In instance methods
+2)outside class
+           1)through object
+#Calling of instance variable --> 
+           1) Inside class -->used self 
+                              1)constructor -->
+                              2)instance method --> its first parameter is (self)
+           2) outside class --> used object
