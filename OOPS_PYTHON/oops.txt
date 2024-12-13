@@ -26,3 +26,9 @@ SYNTAX ---> class class_name:
                               1)constructor -->
                               2)instance method --> its first parameter is (self)
            2) outside class --> used object
+#STATIC VARIABLE CLASS VARIABLE DECLARATION --->
+           1)In side class
+                 1)out side method
+                 2)in-side constructor     --| through class name
+                 3)in-side instance method --| 
+           2)outside class (through class_name)
