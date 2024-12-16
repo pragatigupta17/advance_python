@@ -32,3 +32,9 @@ SYNTAX ---> class class_name:
                  2)in-side constructor     --| through class name
                  3)in-side instance method --| 
            2)outside class (through class_name)
+# METHODS ====>
+               1)instance method(SELF) --> first parameter is self
+               2)Class method(CLS) --> it is used to modify the value of static variable ,@classmethod
+               3)static method
+
+# INSTANCE METHOD ====> 
