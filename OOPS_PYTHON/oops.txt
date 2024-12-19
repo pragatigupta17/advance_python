@@ -38,3 +38,40 @@ SYNTAX ---> class class_name:
                3)static method
 
 # INSTANCE METHOD ====> 
+1)first parameter is self
+2)used to perform the operation on the instance variable
+3)used to perform the operation on the static variable
+# CLASS METHOD ====>
+1)first parameter is cls
+2)used to perform the operation on the static variable
+3)used to perform the operation on the class variable
+# STATIC METHOD ====>
+1)first parameter is not required
+2)used to perform the operation on the static variable
+# CONSTRUCTOR ===>
+1)used to initialize the instance variable
+2)used to initialize the static variable
+3)used to perform the operation on the instance variable
+4)used to perform the operation on the static variable
+# CLASS VARIABLE ===>
+1)used to store the common data
+2)used to perform the operation on the class variable
+3)used to perform the operation on the static variable
+
+#Properties =============>>
+1)Encapsulation
+2)Abstraction
+3)Inheritance
+4)Polymorphism
+#INHERITANCE ===> parent child level inheritation
+      1)Single level Inheritance ----->
+                1)parent -child relation
+      2)Multi level inheritance -------> grand parent-parent-child relation
+      3)Multiple inheritance ------->mother-father-child relation
+
+#POLYMORPHISM ====> Same name function with different argument . (many types)
+     its types--->
+            1)method overloading
+            2)method overriding
+
+
