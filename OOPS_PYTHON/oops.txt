@@ -73,5 +73,17 @@ SYNTAX ---> class class_name:
      its types--->
             1)method overloading
             2)method overriding
+            3)operator overloading
+            4)function overloading
+            5)operator overloading
+            6)constructor overloading
+            7)constructor overriding
+            8)function overriding
+            9)method overloading
+
+#Abstraction ---->
+1)Encapsulation
+2)Abstraction    
+
 
 
